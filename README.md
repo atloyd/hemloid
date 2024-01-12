@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemloid
+- 👋 Hi, I’m @atloyd
 - 👀 I’m interested in learning different languages and diving into the programming world!
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on ...
