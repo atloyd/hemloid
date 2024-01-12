@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemloid
 - 👀 I’m interested in learning different languages and diving into the programming world!
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
